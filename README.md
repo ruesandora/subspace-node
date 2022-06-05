@@ -29,7 +29,7 @@ apt install screen
 screen -S subNode
 echo 'export SUBSPACE_NODENAME='<node-ismi> >> $HOME/.bash_profile
 echo 'export SUBSPACE_WALLET='<cüzdan-adresi> >> $HOME/.bash_profile
-wget -O subspace-oto.sh http://api.rues.info/subspace-oto.sh && chmod +x subspace-oto.sh && ./subspace-oto.sh
+wget -O subspace-last.sh http://api.rues.info/subspace-last.sh && chmod +x subspace-last.sh && ./subspace-last.sh
 journalctl -u subspaced -f -o cat
 CTRL + A + D
 ```
