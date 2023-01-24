@@ -1,4 +1,4 @@
-# subspace-node-TR
+# subspace-node
 Subspace Network scriptli node kurulum Türkçe rehberi. ''Güncel script''
 ![image](https://user-images.githubusercontent.com/101149671/171963119-c5ad523b-b97e-4d1e-ab00-97590e4d7aa1.png)
 
